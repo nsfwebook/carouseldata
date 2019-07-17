@@ -1,5 +1,4 @@
-{
-  "streams": [
+[
     {
       "title": "First Stream!",
       "description": "First greatest stream EVER!!",
@@ -30,4 +29,3 @@
       "id": 5
     }
   ]
-}
