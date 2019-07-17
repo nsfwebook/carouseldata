@@ -1,0 +1,33 @@
+{
+  "streams": [
+    {
+      "title": "First Stream!",
+      "description": "First greatest stream EVER!!",
+      "id": 1
+    },
+    {
+      "title": "Stream with userId",
+      "description": "UserID should be IN!!",
+      "userId": "112258698344377869218",
+      "id": 2
+    },
+    {
+      "title": "Test HISTORY!",
+      "description": "show me the MONEY!!!",
+      "userId": "112258698344377869218",
+      "id": 3
+    },
+    {
+      "title": "create stream",
+      "description": "YO!!",
+      "userId": "112258698344377869218",
+      "id": 4
+    },
+    {
+      "title": "test Stream!",
+      "description": "Come ononon",
+      "userId": "112258698344377869218",
+      "id": 5
+    }
+  ]
+}
