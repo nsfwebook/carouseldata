@@ -4,14 +4,9 @@
     "total": "133",
     "downloadPath": "www.google.com"
   },
-  "p2": {
-    "id": "2",
-    "name": "菜鸟工具",
-    "url": "c.runoob.com"
-  },
-  "p3": {
-    "id": "3",
-    "name": "Google",
-    "url": "www.google.com"
+  "elegantman01": {
+    "dir": "elegantman01",
+    "total": "105",
+    "downloadPath": "https://github.com/nsfwebook/ElegantMan01/raw/master/ElegantMan01.rar"
   }
 }
